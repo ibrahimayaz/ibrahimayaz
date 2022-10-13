@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibrahimayaz
+👋 Hi, I’m @ibrahimayaz
 
 
 <!---
